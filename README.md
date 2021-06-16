@@ -23,7 +23,6 @@ For development environment:
 - [oh-my-zsh](https://ohmyz.sh/)
 - [visual-studio-code](https://code.visualstudio.com/)
 - [git](https://git-scm.com/)
-- [gitkraken](https://www.gitkraken.com/)
 - [tmux](https://github.com/tmux/tmux)
 
 For general purposes:
@@ -36,7 +35,6 @@ For comunication:
 
 For streaming and fun:
 - [spotify](https://www.spotify.com/)
-- [vlc](https://www.videolan.org/)
 
 
 Also includes some base-configuration files at [.dotfiles folder](.dotfiles)
