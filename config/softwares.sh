@@ -26,8 +26,6 @@ declare -a apps=(
   "spotify"
   "slack --classic"
   "simplescreenrecorder-mardy"
-  "vlc"
-  "gitkraken"
 )
 
 for app in "${apps[@]}"; do
